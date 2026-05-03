@@ -7,7 +7,7 @@ comments: true
 
 *Post in:  [Dưỡng già Arena](https://www.facebook.com/groups/duonggiagroup)*
 
-## Steven Wells (dịch bởi Namlete)
+**Tác giả**: Steven Wells (dịch bởi Namlete)
 
 Khi những kẻ "chiếu dưới" dũng cảm của đội tuyển Anh ra sân đối đầu với Slovakia hùng mạnh vào thứ Bảy này, tôi sẽ vừa la ó, vừa cổ vũ.
 Bởi vì, xét cho cùng, trong đội tuyển Anh cũng có những cầu thủ “dễ mến” phải không? Như Becksy (Beckham) và Oweny (Owen) chẳng hạn. Nhưng cũng có những gã đáng ghét - cứ nhìn vào bất cứ ai chơi cho Leeds là biết. Nhưng đó chỉ là ý kiến của tôi, mà ý kiến của tôi thì không đáng tin lắm đâu, vì tôi chẳng biết quái gì về bóng đá cả.
