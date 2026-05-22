@@ -9,15 +9,17 @@ Một năm trước khi qua đời, Franz Kafka đã có một trải nghiệm r
 
 Khi đang đi dạo trong công viên Steglitz ở Berlin, ông thấy một cô bé đang khóc: cô làm mất con búp bê của mình.
 
-![]({{site.baseurl}}/assets/img/Kafka and the travel doll.jpg)
+![]({{site.baseurl}}/assets/img/Kafka and the travel doll 1.jpg)
 
 <div align="center">
-*nguồn ảnh từ sách 国际大奖小说——卡夫卡和旅行娃娃 (Kafka and the Travel doll)*
+<i>nguồn ảnh từ sách 国际大奖小说——卡夫卡和旅行娃娃 (Kafka and the Travel doll)<i>
 </div>
 
 Kafka đề nghị giúp cô bé tìm búp bê và hẹn cô bé vào ngày mai ở đúng chỗ ấy. Vì không tìm thấy con búp bê, ông soạn một bức thư, nói rằng đó là từ bạn búp bê và đọc cho cô bé nghe khi họ gặp nhau.
 
 “Xin cậu đừng khóc thương vì tớ ra đi, tớ đã lên đường du lịch vòng quanh quả đất này. Tớ sẽ viết thư kể về hành trình của tớ với cậu.” - Dòng này là lời mở đầu cho rất nhiều bức thư nối tiếp nhau sau đó. Cứ mỗi khi gặp, Kafka lại đọc những bức thư được soạn rất cẩn thận cho cô bé nghe, kể về chuỗi hành trình tưởng tượng của bạn búp bê thân yêu. Cô bé cảm thấy an tâm trở lại.
+
+![]({{site.baseurl}}/assets/img/Kafka and the travel doll 2.jpg)
 
 Đến cuối, Kafka đưa cho cô một con búp bê. Con búp bê ấy nhìn hoàn toàn chẳng giống con búp bê ban đầu. Nó được trao kèm với một bức thư giải thích rằng: "những chuyến đi đã thay đổi tớ..."
 
