@@ -9,10 +9,12 @@ Một năm trước khi qua đời, Franz Kafka đã có một trải nghiệm r
 
 Khi đang đi dạo trong công viên Steglitz ở Berlin, ông thấy một cô bé đang khóc: cô làm mất con búp bê của mình.
 
-![]({{site.baseurl}}/assets/img/Kafka and the travel doll 1.jpg)
+![]({{site.baseurl}}/assets/img/Kafka and the travel doll 1.jpg)(nguồn ảnh từ sách 国际大奖小说——卡夫卡和旅行娃娃 (Kafka and the Travel doll))
 
 <div align="center">
-<i>nguồn ảnh từ sách 国际大奖小说——卡夫卡和旅行娃娃 (Kafka and the Travel doll)<i>
+
+nguồn ảnh từ sách 国际大奖小说——卡夫卡和旅行娃娃 (Kafka and the Travel doll)
+
 </div>
 
 Kafka đề nghị giúp cô bé tìm búp bê và hẹn cô bé vào ngày mai ở đúng chỗ ấy. Vì không tìm thấy con búp bê, ông soạn một bức thư, nói rằng đó là từ bạn búp bê và đọc cho cô bé nghe khi họ gặp nhau.
