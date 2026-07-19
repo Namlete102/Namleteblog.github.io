@@ -1,6 +1,6 @@
 ---
 title: John Lennon - Hôm nay nghe “Imagine”, tôi vẫn mơ và thế giới vẫn đảo điên...
-categories: [writing ]
+categories: [collection, music]
 comments: true
 ---
 
